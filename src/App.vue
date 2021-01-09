@@ -7,7 +7,6 @@
 	</div>
 </template>
 
-
 <script>
 	import HelloWorld from "./components/HelloWorld.vue";
 import New from "./components/new.vue";
